@@ -1,0 +1,21 @@
+---
+title: "Lección 2: Usando Githubpages"
+description: "Segunda lección del curso"
+date: "2026-02-25"
+---
+
+## Bienvenida
+
+Este es el contenido de la primera lección. Simplemente escribe en formato Markdown.
+
+### Ejemplo de código
+
+```python
+print("Hola mundo")
+```
+
+### Ejemplo de lista
+
+- Punto uno
+- Punto dos
+- Punto tres
