@@ -1,0 +1,10 @@
+---
+title: "Lección 4: Nombre de la Lección"
+description: "De qué trata esta lección"
+date: "2026-02-25"
+---
+## Bienvenida
+
+Este es el contenido de la primera lección. Simplemente escribe en formato Markdown.
+
+### Ejemplo de código
