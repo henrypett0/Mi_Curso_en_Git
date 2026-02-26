@@ -1,0 +1,13 @@
+---
+title: "Lección X: TITULO AQUI"
+description: "DESCRIPCION BREVE AQUI"
+date: "YYYY-MM-DD"
+---
+
+## Sección 1
+
+Escribe tu contenido aquí en formato Markdown.
+
+### Subsección
+
+Más contenido...
