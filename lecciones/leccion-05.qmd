@@ -1,6 +1,6 @@
 title: "Lección 05: TITULO AQUI"
 description: "DESCRIPCION BREVE 05"
-date: "YYYY-MM-DD"
+date: "2025-03-12"
 ---
 
 ## Sección 1
