@@ -1,1 +1,12 @@
-hola
+title: "Lección 05: TITULO AQUI"
+description: "DESCRIPCION BREVE 05"
+date: "YYYY-MM-DD"
+---
+
+## Sección 1
+
+Escribe tu contenido aquí en formato Markdown.
+
+### Subsección
+
+Más contenido...
